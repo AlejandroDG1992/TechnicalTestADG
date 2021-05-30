@@ -1,0 +1,13 @@
+C:\Users\adelgado\Source\Repos\TechnicalTestCRM_AlejandroDelgado\Utilities\bin\Debug\Utilities.dll
+C:\Users\adelgado\Source\Repos\TechnicalTestCRM_AlejandroDelgado\Utilities\bin\Debug\Utilities.pdb
+C:\Users\adelgado\Source\Repos\TechnicalTestCRM_AlejandroDelgado\Utilities\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\adelgado\Source\Repos\TechnicalTestCRM_AlejandroDelgado\Utilities\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\adelgado\Source\Repos\TechnicalTestCRM_AlejandroDelgado\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\adelgado\Source\Repos\TechnicalTestCRM_AlejandroDelgado\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+C:\Users\adelgado\Source\Repos\TechnicalTestCRM_AlejandroDelgado\Utilities\obj\Debug\Utilities.dll
+C:\Users\adelgado\Source\Repos\TechnicalTestCRM_AlejandroDelgado\Utilities\obj\Debug\Utilities.pdb
+C:\Users\adelgado\Source\Repos\TechnicalTestCRM_AlejandroDelgado\Utilities\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\adelgado\Source\Repos\TechnicalTestCRM_AlejandroDelgado\Utilities\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\adelgado\Source\Repos\TechnicalTestCRM_AlejandroDelgado\Utilities\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\adelgado\Source\Repos\TechnicalTestCRM_AlejandroDelgado\Utilities\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\adelgado\Source\Repos\TechnicalTestCRM_AlejandroDelgado\Utilities\bin\Debug\microsoft.identitymodel.dll
